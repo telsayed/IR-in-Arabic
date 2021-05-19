@@ -1,0 +1,649 @@
+<top>
+<num> Number: E01
+<title> تفجير انتحاري في اب
+<desc> Description:
+البحث عن تغريدات تتعلق بحادثة التفجير الإنتحاري الذي وقع في المركز الثقافي بإب في اليمن
+والذي استهدف الحوثيين إبان إحتفالهم بالمولد النبوي الشريف
+<narr> Narrative: 
+http://www.daralakhbar.com/news/2015/01/03/1991425/articles/4868722/%D8%A8%D9%86%D8%A7%D8%A1-%D8%A3%D9%88%D9%84-%D9%83%D9%86%D9%8A%D8%B3%D8%A9-%D9%81%D9%8A-%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84-%D9%85%D9%86%D8%B0-%D9%82%D8%B1%D9%86
+<startDate> Tue Dec 30 00:00:00 AST 2014
+<endDate> Sat Jan 03 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E02
+<title> ليتوانيا تستخدم اليورو بدل الليتاس
+<desc> Description:
+البحث عن تغريدات تتحدث عن اتخاذ آخر دول البلطيق (ليتوانيا) اليورو عملة لها
+بعد عملتها السابقة الليتاس
+<narr> Narrative: 
+http://www.bbc.co.uk/arabic/business/2015/01/150101_lithuania_euro_zone
+<startDate> Tue Dec 30 00:00:00 AST 2014
+<endDate> Sat Jan 03 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E03
+<title> فلسطين تطلب الانضمام للمحكمة الجنائية الدولية
+<desc> Description:
+البحث عن تغريدات تتحدث عن توقيع الرئيس الفلسطيني محمود عباس
+طلب الإنضمام للمحكمة الجنائية الدولية
+<narr> Narrative: 
+http://www.bbc.com/arabic/middleeast/2014/12/141231_palestinians_icc
+<startDate> Tue Dec 30 00:00:00 AST 2014
+<endDate> Sat Jan 03 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E04
+<title> وفاة أبو أنس الليبي في نيويورك
+<desc> Description:
+البحث عن تغريدات تتحدث عن وفاة أبو أنس الليبي بسبب مرضه قبل
+أيام من محاكمته في نيويورك
+<narr> Narrative: 
+http://www.alhayat.com/Articles/6616687/%D9%88%D9%81%D8%A7%D8%A9-%D8%A3%D8%A8%D9%88-%D8%A3%D9%86%D8%B3-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A-%D9%82%D8%A8%D9%84-%D8%A3%D9%8A%D8%A7%D9%85-%D9%85%D9%86-%D9%85%D8%AD%D8%A7%D9%83%D9%85%D8%AA%D9%87-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83
+<startDate> Wed Dec 31 00:00:00 AST 2014
+<endDate> Sun Jan 04 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E05
+<title> اختراق كوريا الشمالية حسابات سوني
+<desc> Description:
+البحث عن تغريدات تتحدث عن قرصنة شركة سوني من قبل كوريا الشمالية
+وفرض أمريكا عقوبات على كوريا الشمالية بسبب الإختراق
+<narr> Narrative: 
+http://ara.reuters.com/article/worldNews/idARAKBN0KB17G20150102
+<startDate> Wed Dec 31 00:00:00 AST 2014
+<endDate> Sun Jan 04 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E06
+<title> بناء أول كنيسة في إسطنبول منذ قرن
+<desc> Description:
+البحث عن تغريدات تتحدث عن حدث موافقة أردوغان على بناء
+أول كنيسة في تركيا منذ قرن
+<narr> Narrative: 
+http://www.skynewsarabia.com/web/article/714217/%D8%A8%D9%86%D8%A7%D8%A1-%D9%83%D9%86%D9%8A%D8%B3%D8%A9-%D8%A7%D9%95%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84-%D9%82%D8%B1%D9%86
+<startDate> Thu Jan 01 00:00:00 AST 2015
+<endDate> Mon Jan 05 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E07
+<title> باباندريو يؤسس حزب جديد
+<desc> Description:
+البحث عن تغريدات تتحدث عن اعتزام باباندريو تأسيس حزب جديد
+قبل ثلاث أسابيع من الإنتخابات اليونانية
+<narr> Narrative: 
+http://www.lebanese-forces.com/2015/01/03/greece-19/
+<startDate> Thu Jan 01 00:00:00 AST 2015
+<endDate> Mon Jan 05 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E08
+<title> بوكو حرام تخطف شباب في نيجريا
+<desc> Description:
+البحث عن تغريدات تتحدث عن حادثة اختطاف جماعة بوكو حرام 40
+شاباً في ولاية برونو بنيجيريا
+<narr> Narrative: 
+http://www.bbc.com/arabic/worldnews/2015/01/150103_boko_haram_nigeria_kidnap
+<startDate> Thu Jan 01 00:00:00 AST 2015
+<endDate> Mon Jan 05 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E09
+<title> سيطرة بوكو حرام على قاعدة عسكرية في نيجيريا
+<desc> Description:
+البحث عن تغريدات تتحدث عن سيطرة جماعة بوكو حرام على قاعدة
+عسكرية على ضفاف التشاد بنيجيريا
+<narr> Narrative: 
+http://www.alarab.qa/story/431432/F
+<startDate> Fri Jan 02 00:00:00 AST 2015
+<endDate> Tue Jan 06 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E10
+<title> مقتل مسلحين في غارات في باكستان
+<desc> Description:
+البحث عن تغريدات تتحدث عن مقتل مسلحين متشددين من طالبان
+في غارات جوية على معسكر بباكستان
+<narr> Narrative: 
+http://mubasher.aljazeera.net/news/2015/01/20151417522243304.htm
+<startDate> Fri Jan 02 00:00:00 AST 2015
+<endDate> Tue Jan 06 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E11
+<title> مقتل حوثيين في انفجار في اليمن
+<desc> Description:
+البحث عن تغريدات تتحدث عن سقوط قتلى من الحوثيين بسبب إنفجار
+عبوة ناسفة في محافظة ذمار باليمن
+<narr> Narrative: 
+http://www.aljazeera.net/news/arabic/2015/1/4/%D9%82%D8%AA%D9%84%D9%89-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%B9%D8%A8%D9%88%D8%A9-%D8%A8%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D8%B0%D9%85%D8%A7%D8%B1
+<startDate> Fri Jan 02 00:00:00 AST 2015
+<endDate> Tue Jan 06 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E12
+<title> اكتشاف مقبرة أثرية لملكة فرعونية
+<desc> Description:
+البحث عن تغريدات تتحدث عن اكتشاف مقبرة أثرية لملكة فرعونية
+تدعى خنتكاوس الثالثة في منطقة أبو صير بمصر
+<narr> Narrative: 
+http://www.almasryalyoum.com/news/details/620605
+<startDate> Fri Jan 02 00:00:00 AST 2015
+<endDate> Tue Jan 06 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E13
+<title> قصف ناقلة نفط يونانية في ليبيا
+<desc> Description:
+البحث عن تغريدات تتحدث عن قصف ناقلة نفط يونانية في ميناء 
+درنة بليبيا ومقتل شخصين من طاقم الناقلة
+<narr> Narrative: 
+http://www.bbc.com/arabic/middleeast/2015/01/150105_libya_govt_army?ocid=socialflow_twitter
+<startDate> Sat Jan 03 00:00:00 AST 2015
+<endDate> Wed Jan 07 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E14
+<title> مقتل رجلي أمن سعوديين على حدود العراق
+<desc> Description:
+البحث عن تغريدات تتحدث عن استشهاد رجلي أمن سعوديين بهجوم 
+خوارج داعش على الحدود العراقية السعودية
+<narr> Narrative: 
+http://www.aljazeera.net/news/arabic/2015/1/5/%D9%85%D9%82%D8%AA%D9%84-%D8%B1%D8%AC%D9%84%D9%8A-%D8%A3%D9%85%D9%86-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%8A%D9%86-%D8%A8%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83-%D9%82%D8%B1%D8%A8-%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82
+<startDate> Sat Jan 03 00:00:00 AST 2015
+<endDate> Wed Jan 07 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E15
+<title> تأخر رحلة الاتحاد في أبو ظبي
+<desc> Description:
+البحث عن تغريدات تتحدث عن تأخر رحلة طيران الإتحاد المتجهة إلى سان فرانسيسكو
+لمدة 12 ساعة بمطار أبوظبي في الإمارات العربية المتحدة
+<narr> Narrative: 
+http://arabi21.com/story/800681/%D9%85%D8%A6%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D9%81%D8%B1%D9%8A%D9%86-%D8%B9%D9%84%D9%82%D9%88%D8%A7-%D8%AF%D8%A7%D8%AE%D9%84-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%84%D9%8012-%D8%B3%D8%A7%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A
+<startDate> Sat Jan 03 00:00:00 AST 2015
+<endDate> Wed Jan 07 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E16
+<title> فرض لبنان تأشيرة دخول للسوريين
+<desc> Description:
+البحث عن تغريدات تتحدث عن فرض لبنان لأول مرة تأشيرة دخول 
+على اللاجئين والنازحين السوريين القادمين للبنان
+<narr> Narrative: 
+http://www.alarabiya.net/ar/arab-and-world/syria/2015/01/05/%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%A8%D8%AF%D8%A1-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%AA%D8%AF%D8%A7%D8%A8%D9%8A%D8%B1-%D9%85%D8%B4%D8%AF%D8%AF%D8%A9-%D8%B9%D9%84%D9%89-%D8%AF%D8%AE%D9%88%D9%84-%D9%84%D8%A7%D8%AC%D8%A6%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7.html
+<startDate> Sat Jan 03 00:00:00 AST 2015
+<endDate> Wed Jan 07 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E18
+<title> قوات التحالف تقصف داعش في العراق
+<desc> Description:
+البحث عن تغريدات تتحدث عن شن قوات التحالف عدة غارات جوية على داعش
+في عين العرب كوباني بالعراق
+<narr> Narrative: 
+http://www.dostor.org/747026
+<startDate> Sun Jan 04 00:00:00 AST 2015
+<endDate> Thu Jan 08 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E19
+<title> مقتل شرطي تركي في عملية انتحارية
+<desc> Description:
+البحث عن تغريدات تتحدث عن مقتل شرطي بعملية تفجير إنتحارية نفذتها
+امرأة في العاصمة التركية إسطنبول
+<narr> Narrative: 
+http://www.alaan.tv/news/world-news/121841/turkey-bombing-female-suicide-attacker-hits-istanbul-police-station
+<startDate> Sun Jan 04 00:00:00 AST 2015
+<endDate> Thu Jan 08 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E20
+<title> هجوم مسلح على شارلي إبدو
+<desc> Description:
+البحث عن تغريدات تتحدث عن سقوط قتلى بهجوم مسلح على صحيفة شارلي إبدو
+الفرنسية الساخرة في العاصمة باريس
+<narr> Narrative: 
+http://www.aljazeera.net/news/international/2015/1/7/%D9%82%D8%AA%D9%84%D9%89-%D9%81%D9%8A-%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D9%82%D8%B1-%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9
+<startDate> Mon Jan 05 00:00:00 AST 2015
+<endDate> Fri Jan 09 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E21
+<title> تحديد المشتبه بهم في هجوم شارلي إبدو
+<desc> Description:
+البحث عن تغريدات تتحدث عن اكتشاف هوية منفذي هجوم صحيفة شارلي إبدوالفرنسية
+الساخرة
+<narr> Narrative: 
+http://www.casacity.com/%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%AA%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D9%87%D9%88%D9%8A%D8%A9-%D9%85%D9%86%D9%81%D8%B0%D9%8A-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D8%B9%D9%84%D9%89-%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D8%B4%D8%A7%D8%B1%D9%84%D9%8A-%D8%A5%D8%A8%D8%AF%D9%88_a5532.html
+<startDate> Mon Jan 05 00:00:00 AST 2015
+<endDate> Fri Jan 09 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E22
+<title> تفجير سيارة مفخخة في صنعاء
+<desc> Description:
+البحث عن تغريدات تتحدث عن سقوط قتلى في تفجير سيارة مفخخة استهدف
+طلاباً جامعيين في كلية للشرطة بالعاصمة اليمنية صنعاء
+<narr> Narrative: 
+http://www.aljazeera.net/news/arabic/2015/1/7/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D8%AA%D9%81%D8%AC%D9%8A%D8%B1-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A8%D8%B5%D9%86%D8%B9%D8%A7%D8%A1
+<startDate> Mon Jan 05 00:00:00 AST 2015
+<endDate> Fri Jan 09 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E23
+<title> مطاردة المشتبه بهم في هجوم شارلي إبدو
+<desc> Description:
+البحث عن تغريدات تتحدث عن عملية مطاردة المشتبه بهم في هجوم صحيفة شارلي إبدو الفرنسية
+بالأخوين سعيد وشريف كواشي واستسلام المتهم الثالث المدعى حميد مراد
+<narr> Narrative: 
+https://algnoobpress.blogspot.qa/2015/01/blog-post_68.html
+<startDate> Tue Jan 06 00:00:00 AST 2015
+<endDate> Sat Jan 10 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E24
+<title> هجمات على مساجد في فرنسا
+<desc> Description:
+البحث عن تغريدات تتحدث عن تعرض عدة مساجد لهجمات في فرنسا عقب
+الهجوم على صحيفة شارلي إبدو الفرنسية
+<narr> Narrative: 
+http://www.alsharq.net.sa/2015/01/09/1277850
+<startDate> Tue Jan 06 00:00:00 AST 2015
+<endDate> Sat Jan 10 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E25
+<title> تفجير انتحاري في مسجدين للشيعة في العراق
+<desc> Description:
+البحث عن تغريدات تتحدث عن سقوط قتلى في تفجيرات انتحارية استهدفت مسجدين
+للشيعة ببغداد في العراق 
+<narr> Narrative: 
+http://www.islamtoday.net/albasheer/artshow-12-205425.htm?utm_medium=twitter&utm_source=twitterfeed
+<startDate> Tue Jan 06 00:00:00 AST 2015
+<endDate> Sat Jan 10 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E26
+<title> حرق بوكو حرام بلدة باغا النيجيرية
+<desc> Description:
+البحث عن تغريدات تتحدث عن قيام جماعة بوكو حرام بحرق بلدة باغا النيجيرية
+وسقوط 2000 من جثث الضحايا في طرقات البلد
+<narr> Narrative: 
+http://www.bbc.com/arabic/worldnews/2015/01/150108_nigeria_boko_haram_baga
+<startDate> Tue Jan 06 00:00:00 AST 2015
+<endDate> Sat Jan 10 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E27
+<title> مقتل منفذي هجوم شارلو إبدو
+<desc> Description:
+البحث عن تغريدات تتحدث عن مقتل المشتبه بهما في الهجوم على صحيفة شارلي إبدو
+الأخوان سعيد وشريف كواشي في باريس بفرنسا
+<narr> Narrative: 
+http://alwafd.org/%D9%85%D9%8A%D9%80%D8%AF%D9%8A%D8%A7/795730-%D9%85%D9%82%D8%AA%D9%84-%D9%85%D9%86%D9%81%D8%B0%D9%8A-%D8%AD%D8%A7%D8%AF%D8%AB-%D8%B4%D8%A7%D8%B1%D9%84%D9%8A-%D8%A5%D8%A8%D8%AF%D9%88-%D8%A8%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3
+<startDate> Wed Jan 07 00:00:00 AST 2015
+<endDate> Sun Jan 11 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E30
+<title> مباراة أستراليا ضد الكويت في افتتاح أمم آسيا
+<desc> Description:
+البحث عن تغريدات تناقش فوز أستراليا أمام الكويت بنتيجة 4-1 في إفتتاح أمم آسيا
+لكرة القدم بعد حفل الإفتتاح الذي أقيم في الدولة المستضيفة أستراليا
+<narr> Narrative: 
+http://www.alqurtasnews.com/news/73497/%D9%81%D9%88%D8%B2-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D9%8A%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-4-1-%D9%81%D9%8A-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%86%D9%87/ar
+<startDate> Wed Jan 07 00:00:00 AST 2015
+<endDate> Sun Jan 11 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E32
+<title> هجوم انتحاري على مقهى في طرابلس في لبنان
+<desc> Description:
+البحث عن تغريدات تتحدث عن الهجوم الإنتحاري الذي تبنته جبهة النصرة
+والذي إستهدف مقهى في طرابلس بلبنان
+<narr> Narrative: 
+http://www.alyaum.com/article/4040182
+<startDate> Thu Jan 08 00:00:00 AST 2015
+<endDate> Mon Jan 12 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E33
+<title> اشتباك في البحرين بين محتجين والشرطة
+<desc> Description:
+البحث عن تغريدات تتحدث عن إشتباك محتجين مع الشرطة في البحرين بسبب
+مواصلة إعتقال الزعيم المعارض علي سلمان
+<narr> Narrative: 
+http://www.bbc.com/arabic/middleeast/2015/01/150110_bahrain_protesters_clash_opposition_leader_detention
+<startDate> Thu Jan 08 00:00:00 AST 2015
+<endDate> Mon Jan 12 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E35
+<title> هجوم على جريدة ألمانية أساءت للرسول
+<desc> Description:
+البحث عن تغريدات تتحدث عن الهجوم على صحيفة في مدينة هامبورغ بألمانيا لقيامها بنشر
+كاريكاتير مسيء للنبي عقب هجوم شارلي إبدو بفرنسا
+<narr> Narrative: 
+http://lebanon2day.com/?p=27472
+<startDate> Fri Jan 09 00:00:00 AST 2015
+<endDate> Tue Jan 13 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E36
+<title> طفلة فجرت نفسها في سوق في نيجيريا
+<desc> Description:
+البحث عن تغريدات تتحدث عن قيام طفلة تابعة لجماعة بوكو حرام بتفجير نفسها في سوق
+مايدوغوري في نيجيريا
+<narr> Narrative: 
+https://arabic.rt.com/news/770336-%D9%86%D9%8A%D8%AC%D9%8A%D8%B1%D9%8A%D8%A7-%D8%B7%D9%81%D9%84%D8%A9-%D8%AA%D9%82%D8%AA%D9%84-20-%D8%B4%D8%AE%D8%B5%D8%A7-%D8%A8%D8%AA%D9%81%D8%AC%D9%8A%D8%B1-%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1%D9%8A/
+<startDate> Fri Jan 09 00:00:00 AST 2015
+<endDate> Tue Jan 13 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E38
+<title> اختراق داعش حسابات القيادة المركزية الأمريكية
+<desc> Description:
+البحث عن تغريدات تتحدث عن قيام داعش بإختراق حساب القيادة المركزية الأمريكية في اليوتيوب
+وتويتر 
+<narr> Narrative: 
+http://arabic.cnn.com/world/2015/01/12/pol-centcom-twitter-hacked-suspended-2
+<startDate> Sat Jan 10 00:00:00 AST 2015
+<endDate> Wed Jan 14 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E39
+<title> فوز رونالدو بجائزة الكرة الذهبية 2014
+<desc> Description:
+البحث عن تغريدات تتحدث عن فوز اللاعب البرتغالي كريستيانو رونالدو بجائزة الكرة
+الذهبية كأفضل لاعب لعام 2014 في حفل الفيفا
+<narr> Narrative: 
+http://www.france24.com/ar/20150112-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A%D8%A9-2014-%D9%81%D9%8A%D9%81%D8%A7-%D9%81%D9%88%D8%B2-%D9%82%D8%AF%D9%85/
+<startDate> Sat Jan 10 00:00:00 AST 2015
+<endDate> Wed Jan 14 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E40
+<title> انتشال الصندوق الأسود لغرفة القيادة أير آسيا
+<desc> Description:
+البحث عن تغريدات تتحدث عن إنتشال مسجل قمرة القيادة من حطام طائرة آير آسيا
+التي عثر عليها غواصون أندونيسيون في بحر جاوة
+<narr> Narrative: 
+http://www.aleqt.com/2015/01/13/article_922393.html?utm_source=twitterfeed&utm_medium=twitter
+<startDate> Sun Jan 11 00:00:00 AST 2015
+<endDate> Thu Jan 15 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E41
+<title> إعادة محاكمة مبارك في قضية القصور
+<desc> Description:
+البحث عن تغريدات تتحدث عن إعادة محاكمة الرئيس المصري المخلوع حسني مبارك في
+قضية قصور الرئاسة 
+<narr> Narrative: 
+http://mubasher.aljazeera.net/news/2015/01/201511311528619863.htm
+<startDate> Sun Jan 11 00:00:00 AST 2015
+<endDate> Thu Jan 15 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E42
+<title> استقالة نابوليتانو رئيس إيطاليا
+<desc> Description:
+البحث عن تغريدات تتحدث عن إستقالة الرئيس الإيطالي جورجو نابوليتانو 
+وتنحيه عن منصبه كرئيس لإيطاليا
+<narr> Narrative: 
+http://www.alarabiya.net/ar/arab-and-world/2015/01/14/استقالة-الرئيس-الإيطالي-جورجيو-نابوليتانو.html
+<startDate> Mon Jan 12 00:00:00 AST 2015
+<endDate> Fri Jan 16 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E43
+<title> افتتاح مونديال كرة اليد للرجال في قطر
+<desc> Description:
+البحث عن تغريدات تتحدث عن إفتتاح مونديال كرة اليد للرجال في العاصمة 
+القطرية الدوحة 
+<narr> Narrative: 
+http://www.aljazeera.net/news/sport/2015/1/15/%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%8A%D8%AF-%D9%81%D9%8A-%D9%82%D8%B7%D8%B1
+<startDate> Tue Jan 13 00:00:00 AST 2015
+<endDate> Sat Jan 17 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E44
+<title> خطف مدير مكتب الرئيس اليمني
+<desc> Description:
+البحث عن تغريدات تتحدث عن قيام جماعة الحوثي بإختطاف أحمد عوض مدير مكتب
+الرئيس اليمني عبد ربه منصور هادي
+<narr> Narrative: 
+http://www.islamtoday.net/albasheer/artshow-12-205734.htm?utm_source=Kazi+Media+Group&utm_medium=Kazi+Media+Group
+<startDate> Thu Jan 15 00:00:00 AST 2015
+<endDate> Mon Jan 19 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E47
+<title> استضافة غينيا لكأس أمم أفريقيا
+<desc> Description:
+البحث عن تغريدات تتحدث عن استبعاد المغرب استضافة كأس أمم أفريقيا خوفاً من انتشار
+وباء إيبولا في المملكة المغربية
+<narr> Narrative: 
+https://arabia.eurosport.com/article/4477010-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D8%BA%D9%8A%D9%86%D9%8A%D8%A7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AA%D9%86%D8%B8%D9%85-%D9%83%D8%A3%D8%B3-%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-2015-%D8%A8%D8%AF%D9%84%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8
+<startDate> Fri Jan 16 00:00:00 AST 2015
+<endDate> Tue Jan 20 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E48
+<title> سيطرة الحوثيين على قناة سبأ
+<desc> Description:
+البحث عن تغريدات تتحدث عن سيطرة الحوثيين على قناة سبأ الفضائية وإعلان وزيرة الإعلام 
+نادية السقاف خروج القناة عن سيطرة الدولة
+<narr> Narrative: 
+http://rsd24.net/newsdetails1.aspx?id=2402021
+<startDate> Sat Jan 17 00:00:00 AST 2015
+<endDate> Wed Jan 21 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E50
+<title> داعش تهدد اليابان بالرهائن
+<desc> Description:
+البحث عن تغريدات تتحدث عن قيام داعش بتهديد الحكومة اليابانية باستخدام الرهينتين اليابانيين
+وطلبها مبلغاً من المال مقابل إطلاق سراح الرهائن
+<narr> Narrative: 
+http://www1.el-balad.com/1348166
+<startDate> Sun Jan 18 00:00:00 AST 2015
+<endDate> Thu Jan 22 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E51
+<title> استقالة الرئيس اليمني وحكومته
+<desc> Description:
+البحث عن تغريدات تتحدث عن إستقالة الرئيس اليمني عبد ربه منصور هادي ورئيس وزراءه خالد بحاح
+بالإضافة إلى إستقالة الحكومة اليمنية تحت ضغط الحوثيين
+<narr> Narrative: 
+http://www.aljazeera.net/news/arabic/2015/1/22/%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%8A%D9%85%D9%86%D9%8A-%D9%88%D8%AD%D9%83%D9%88%D9%85%D8%AA%D9%87
+<startDate> Tue Jan 20 00:00:00 AST 2015
+<endDate> Sat Jan 24 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E54
+<title> مقتل جنود لبنانيين قرب حدود سوريا
+<desc> Description:
+البحث عن تغريدات تتحدث عن مقتل خمس جنود لبنانيين على يد داعش في منطقة رأس 
+بعلبك قرب الحدود السورية اللبنانية
+<narr> Narrative: 
+http://www.alquds.co.uk/?p=284600
+<startDate> Thu Jan 22 00:00:00 AST 2015
+<endDate> Mon Jan 26 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E56
+<title> هزيمة داعش على يد الأكراد في كوباني
+<desc> Description:
+البحث عن تغريدات تتحدث عن هزيمة داعش على يد الأكراد وتحرير شبه كامل لعين 
+العرب كوباني
+<narr> Narrative: 
+http://www.alarabiya.net/ar/arab-and-world/syria/2015/01/26/%D9%83%D9%88%D8%A8%D8%A7%D9%86%D9%8A-%D8%B4%D8%A8%D9%87-%D9%85%D8%AD%D8%B1%D8%B1%D8%A9-%D9%85%D9%86-%D8%AF%D8%A7%D8%B9%D8%B4.html
+<startDate> Sat Jan 24 00:00:00 AST 2015
+<endDate> Wed Jan 28 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E57
+<title> مباراة العراق وكوريا الجنوبية في نصف نهائي كأس آسيا
+<desc> Description:
+البحث عن تغريدات تتحدث عن خسارة العراق أمام كوريا الجنوبية في نصف نهائي كأس آسيا بنتيجة 
+هدفين لكوريا الجنوبية مقابل لا شيء
+<narr> Narrative: 
+http://www.bbc.com/arabic/sports/2015/01/150126_football_asia_cup_semi_final_iraq_south_korea
+<startDate> Sat Jan 24 00:00:00 AST 2015
+<endDate> Wed Jan 28 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E58
+<title> هجوم على فندق كورنثيا بطرابلس في ليبيا
+<desc> Description:
+البحث عن تغريدات تتحدث عن هجوم مسلح على فندق كورنثيا بطرابلس وتبني داعش
+الهجوم الذي نتج عنه مقتل تسعة أشخاص بينهم ثلاث أجانب
+<narr> Narrative: 
+http://www.alhurra.com/content/hostage-situation-in-tripoli-hotel/265456.html
+<startDate> Sun Jan 25 00:00:00 AST 2015
+<endDate> Thu Jan 29 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E59
+<title> هجوم حزب الله على مزارع شبعا
+<desc> Description:
+البحث عن تغريدات تتحدث عن هجوم مسلح على فندق كورنثيا بطرابلس وتبني داعش
+الهجوم الذي نتج عنه مقتل تسعة أشخاص بينهم ثلاث أجانب
+<narr> Narrative: 
+http://www.alwatan.com/graphics/2001/April/18.4/heads/ft8.htm
+<startDate> Mon Jan 26 00:00:00 AST 2015
+<endDate> Fri Jan 30 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E60
+<title> تفجيرات في بغداد وسامراء والفلوجة في العراق
+<desc> Description:
+البحث عن تغريدات تتحدث عن سقوط قتلى في تفجيرات متفرقة في كل من سامراء والفلوجة 
+وبغداد في العراق
+<narr> Narrative: 
+http://www.akhbaralaalam.net/?aType=haber&ArticleID=89342
+<startDate> Tue Jan 27 00:00:00 AST 2015
+<endDate> Sat Jan 31 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E63
+<title> تفجير داعش مسجداً للشيعة في باكستان
+<desc> Description:
+البحث عن تغريدات تفجير داعش لمسجد شيعي يوم الجمعة في شيكاربور في باكستان وقتل 61 مصلي، ومطالبة الشيعة باعتقال من دبروا الهجوم وحماية مساجدهم.
+<narr> Narrative:
+http://www.france24.com/ar/20150130-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1-%D9%85%D8%B3%D8%AC%D8%AF-%D8%B4%D9%8A%D8%B9%D9%8A-%D9%82%D8%AA%D9%84%D9%89-%D8%B4%D9%8A%D8%B9%D8%A9-%D8%AC%D9%86%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%86
+<startDate> Wed Jan 28 00:00:00 AST 2015
+<endDate> Sun Feb 01 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E65
+<title> إعادة تشكيل مجلس الوزراء السعودي
+<desc> Description:
+البحث عن تغريدات تتحدث عن مضمون البيان الذي أصدر بشأن إعادة تشكيل مجلس الوزراء السعودي، 
+وأسماء الوزراء المقالين، وأسماء الوزراء الذي سيحفظون مناصبهم، وأسماء الوزراء الذي عينوا في مناصب جديدة. 
+بالإضافة إلى تشكيل مجلس للشؤون السياسية والأمنية.
+<narr> Narrative:
+http://www.aljazeera.net/news/arabic/2015/1/29/%D9%85%D9%84%D9%83-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%B6%D9%85%D9%86-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9
+<startDate> Wed Jan 28 00:00:00 AST 2015
+<endDate> Sun Feb 01 23:59:59 AST 2015
+</top>
+
