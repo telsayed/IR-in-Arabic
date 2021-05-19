@@ -6,4 +6,4 @@
 ## Contents 
 * Day 1
   * Slides
-  * Template notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EWQcmvuPEhf7EGcLvo32ORHlBf7TH-CN#scrollTo=g4TNyAgQvGbi)
+  * Lab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nG5bSMHj29HRfUSfSzCg_X-GgSj7utVx)
