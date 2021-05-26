@@ -4,5 +4,6 @@
 
 ## Day1
 * Slides
+* Readings
 * Lab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eoP2_2a1iHvgjinL5czaoWPtqGy2850q)
 
