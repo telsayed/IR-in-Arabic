@@ -5,8 +5,7 @@
 ## Day1
 * Slides
 * Readings
-* Lab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DocvxaYxYPIiNw9J1gHsJs8lqcy3fUEu?usp=sharing)
-
+* Lab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 ## Day2
 * Slides
 * Readings
