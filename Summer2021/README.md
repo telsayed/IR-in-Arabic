@@ -13,7 +13,7 @@
 * [Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day2/2-IRinArabic2021-Indexing%20%26%20Preprocessing.pdf)
 * Lab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GxgbyG5_klcpqgK1zSAa11wtsOlBNogw?usp=sharing)
 ### Day3
-* [Slides]()
+* [Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day3/3-IRinArabic2021-Evaluation.pdf)
 * [Lab](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/labs/day3/Lab3-IRinArabic2021-Evaluation.pdf)
 
 
