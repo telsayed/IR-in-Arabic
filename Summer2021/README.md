@@ -2,7 +2,7 @@
 
 **Team:** [bigIR](https://sites.google.com/view/bigir) from Qatar University ([@bigIR_group](https://twitter.com/bigIR_group))
 
-## Contents
+## Content
 * [Lectures on YouTube](https://www.youtube.com/playlist?list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca)
 * [Readings](https://docs.google.com/document/d/1MpEu_lroKWjTMwSMMMZT54uFrlIKCwW8Xqy8oUS91Jw/edit)
 ### Day1
