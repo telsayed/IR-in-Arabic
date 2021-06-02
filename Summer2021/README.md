@@ -1,4 +1,4 @@
-# IR in Arabic (Summer 2021) 
+# Information Retrieval (in Arabic), Summer 2021
 
 **Team:** [bigIR](https://sites.google.com/view/bigir) from Qatar University ([@bigIR_group](https://twitter.com/bigIR_group))
 
@@ -14,7 +14,3 @@
 ### Day3
 * [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day3/3-IRinArabic2021-Evaluation.pdf)
 * [Lab](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/labs/day3/Lab3-IRinArabic2021-Evaluation.pdf)
-
-
-
-
