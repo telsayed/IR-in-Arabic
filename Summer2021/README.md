@@ -14,3 +14,6 @@
 ### Day3
 * [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day3/3-IRinArabic2021-Evaluation.pdf)
 * [Lab](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/labs/day3/Lab3-IRinArabic2021-Evaluation.pdf)
+### Day4
+* [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day4/4-IRinArabic2021-Ranked%20Retrieval%20I.pdf)
+* Lab [![Open In Colab]()
