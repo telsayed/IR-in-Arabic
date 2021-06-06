@@ -27,3 +27,7 @@
 * [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day5/5-IRinArabic2021-Ranked%20Retrieval%20II.pdf)
 * [Lecture Video](https://youtu.be/ShgSsjLTp3g)
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VDnV-gv-5d2UL8yVMOyDtVvhqCF6iS__?usp=sharing)
+### Day6
+* [Lecture Slides]()
+* [Lecture Video]()
+* Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
