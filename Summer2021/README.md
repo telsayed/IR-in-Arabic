@@ -28,6 +28,6 @@
 * [Lecture Video](https://youtu.be/ShgSsjLTp3g)
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VDnV-gv-5d2UL8yVMOyDtVvhqCF6iS__?usp=sharing)
 ### Day6
-* [Lecture Slides]()
+* [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day6/6-IRinArabic2021-Query%20Expansion.pdf)
 * [Lecture Video]()
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
