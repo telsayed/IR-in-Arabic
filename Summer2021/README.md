@@ -34,4 +34,4 @@
 ### Day7
 * [Lecture Slides]()
 * [Lecture Video]()
-* Lab Notebook [![Open In Colab](https://colab.research.google.com/drive/1kj_Pkz1SnGPB6OIzLMRp0ZrfmRXjMc98?usp=sharing)
+* Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kj_Pkz1SnGPB6OIzLMRp0ZrfmRXjMc98?usp=sharing)
