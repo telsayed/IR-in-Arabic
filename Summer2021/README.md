@@ -36,6 +36,6 @@
 * [Lecture Video]()
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kj_Pkz1SnGPB6OIzLMRp0ZrfmRXjMc98?usp=sharing)
 ### Day8
-* [Lecture Slides]()
+* [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day8/8-IRinArabic2021-Introduction%20to%20the%20Transformer%20%26%20BERT.pdf)
 * [Lecture Video]()
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqUG_UtYHfMfiw6pW_W_Gs5erJvlaQ_X?usp=sharing)
