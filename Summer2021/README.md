@@ -32,7 +32,7 @@
 * [Lecture Video]()
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jE8tKJOzj51DE5EyOz2GlyTV7lgsiT0f?usp=sharing)
 ### Day7
-* [Lecture Slides]()
+* [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day7/7-IRinArabic2021-Term%20Representation.pdf)
 * [Lecture Video]()
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kj_Pkz1SnGPB6OIzLMRp0ZrfmRXjMc98?usp=sharing)
 ### Day8
