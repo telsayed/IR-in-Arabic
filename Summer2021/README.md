@@ -38,4 +38,4 @@
 ### Day8
 * [Lecture Slides]()
 * [Lecture Video]()
-* Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/16EQur9pS_C0qUrtX5dftw_idQf03lPI-/view?usp=sharing)
+* Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqUG_UtYHfMfiw6pW_W_Gs5erJvlaQ_X?usp=sharing)
