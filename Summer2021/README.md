@@ -19,18 +19,22 @@
 * [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day3/3-IRinArabic2021-Evaluation.pdf)
 * [Lecture Video](https://youtu.be/6vcivCRt1xI)
 * [Lab Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/labs/day3/Lab3-IRinArabic2021-Evaluation.pdf)
+* [Lab Video](https://www.youtube.com/watch?v=AXLelhN30oA&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=7)
 ### Day4
 * [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day4/4-IRinArabic2021-Ranked%20Retrieval%20I.pdf)
 * [Lecture Video](https://youtu.be/EMHg-my_lxs)
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1F7w8KPf2yMu-h6QqcdcYSHGmpkSztgwW?usp=sharing)
+* [Lab Video](https://www.youtube.com/watch?v=K6ZDNt8dVLA&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=5)
 ### Day5
 * [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day5/5-IRinArabic2021-Ranked%20Retrieval%20II.pdf)
 * [Lecture Video](https://youtu.be/ShgSsjLTp3g)
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VDnV-gv-5d2UL8yVMOyDtVvhqCF6iS__?usp=sharing)
+* [Lab Video](https://www.youtube.com/watch?v=VfWP5_-fZgA&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=3)
 ### Day6
 * [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day6/6-IRinArabic2021-Query%20Expansion.pdf)
 * [Lecture Video]()
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jE8tKJOzj51DE5EyOz2GlyTV7lgsiT0f?usp=sharing)
+* [Lab Video](https://www.youtube.com/watch?v=uI9u1V43Vvo&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=1)
 ### Day7
 * [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day7/7-IRinArabic2021-Term%20Representation.pdf)
 * [Lecture Video]()
