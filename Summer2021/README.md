@@ -32,18 +32,21 @@
 * [Lab Video](https://www.youtube.com/watch?v=VfWP5_-fZgA&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=3)
 ### Day6
 * [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day6/6-IRinArabic2021-Query%20Expansion.pdf)
-* [Lecture Video]()
+* [Lecture Video](https://www.youtube.com/watch?v=hRfMjrpXTBY&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=2)
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jE8tKJOzj51DE5EyOz2GlyTV7lgsiT0f?usp=sharing)
 * [Lab Video](https://www.youtube.com/watch?v=uI9u1V43Vvo&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=1)
 ### Day7
 * [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day7/7-IRinArabic2021-Term%20Representation.pdf)
-* [Lecture Video]()
+* [Lecture Video](https://www.youtube.com/watch?v=2_VI2DA-t_w&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=13)
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kj_Pkz1SnGPB6OIzLMRp0ZrfmRXjMc98?usp=sharing)
+* [Lab Video](https://www.youtube.com/watch?v=mg-EYRYWWKQ&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=14)
 ### Day8
 * [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day8/8-IRinArabic2021-Introduction%20to%20the%20Transformer%20%26%20BERT.pdf)
-* [Lecture Video]()
+* [Lecture Video](https://www.youtube.com/watch?v=CrIN0HcSMyA&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=15)
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqUG_UtYHfMfiw6pW_W_Gs5erJvlaQ_X?usp=sharing)
+* [Lab Video](https://www.youtube.com/watch?v=X81nk9lMcfo&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=16)
 ### Day9
 * [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day9/9-IRinArabic2021-BERT%20for%20Ranking.pdf)
 * [Lecture Video]()
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_pSxQPKRyXWWh0lZ5rxjRPz1WYXrNcHm?usp=sharing)
+* [Lab Video]()
