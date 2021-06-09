@@ -54,7 +54,7 @@
 ## Contact us
 - [Dr. Tamer Elsayed](mailto:telsayed@qu.edu.qa)
 - [Fatima Haouari](mailto:200159617@qu.edu.qa)
-- [Watheq Mansoor](mailto:wm1900793@student.qu.edu.qa)
+- [Watheq Mansour](mailto:wm1900793@qu.edu.qa)
 - [Maram Hasanain](mailto:maram.hasanain@qu.edu.qa)
 
 
