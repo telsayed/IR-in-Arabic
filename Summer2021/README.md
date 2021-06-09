@@ -40,6 +40,6 @@
 * [Lecture Video]()
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TqUG_UtYHfMfiw6pW_W_Gs5erJvlaQ_X?usp=sharing)
 ### Day9
-* [Lecture Slides]()
+* [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day9/9-IRinArabic2021-BERT%20for%20Ranking.pdf)
 * [Lecture Video]()
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_pSxQPKRyXWWh0lZ5rxjRPz1WYXrNcHm?usp=sharing)
