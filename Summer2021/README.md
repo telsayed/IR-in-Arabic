@@ -51,7 +51,7 @@
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_pSxQPKRyXWWh0lZ5rxjRPz1WYXrNcHm?usp=sharing)
 * [Lab Video]()
 
-# Contact us
+## Contact us
 - [Dr. Tamer Elsayed](mailto:telsayed@qu.edu.qa)
 - [Fatima Haouari](mailto:200159617@qu.edu.qa)
 - [Watheq Mansoor](mailto:wm1900793@student.qu.edu.qa)
