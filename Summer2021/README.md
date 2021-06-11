@@ -1,6 +1,6 @@
 # Information Retrieval (in Arabic), Summer 2021
 
-[What is this Course?](https://docs.google.com/document/d/1iiZ8ajxq2XNddehP-t259czPljccMTNxIMpQSnHmIZM/edit?usp=sharing)
+[What and why is this course?](https://docs.google.com/document/d/1iiZ8ajxq2XNddehP-t259czPljccMTNxIMpQSnHmIZM/edit?usp=sharing)
 
 ## Content
 * [All Lectures & Labs on YouTube](https://www.youtube.com/playlist?list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca)
