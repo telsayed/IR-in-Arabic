@@ -1,7 +1,5 @@
 # Information Retrieval (in Arabic), Summer 2021
 
-**Team:** [bigIR](https://sites.google.com/view/bigir) from Qatar University ([@bigIR_group](https://twitter.com/bigIR_group))
-
 [What is this Course?](https://docs.google.com/document/d/1iiZ8ajxq2XNddehP-t259czPljccMTNxIMpQSnHmIZM/edit?usp=sharing)
 
 ## Content
@@ -59,9 +57,9 @@
 * [Lab Video](https://youtu.be/BmyOswZTvlM)
 
 ## Contact us
-- [Dr. Tamer Elsayed](mailto:telsayed@qu.edu.qa)
-- [Fatima Haouari](mailto:200159617@qu.edu.qa)
-- [Watheq Mansour](mailto:wm1900793@qu.edu.qa)
-- [Maram Hasanain](mailto:maram.hasanain@qu.edu.qa)
+- [Dr. Tamer Elsayed](telsayed ~AT~ qu.edu.qa)
+- [Fatima Haouari](200159617 ~AT~ qu.edu.qa)
+- [Watheq Mansour](wm1900793 ~AT~ qu.edu.qa)
+- [Maram Hasanain](maram.hasanain ~AT~ qu.edu.qa)
 
-
+**Team:** [bigIR](https://sites.google.com/view/bigir) from Qatar University ([@bigIR_group](https://twitter.com/bigIR_group))
