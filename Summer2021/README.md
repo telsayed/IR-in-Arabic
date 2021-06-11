@@ -1,6 +1,7 @@
 # Information Retrieval (in Arabic), Summer 2021
 
 **Team:** [bigIR](https://sites.google.com/view/bigir) from Qatar University ([@bigIR_group](https://twitter.com/bigIR_group))
+
 [What is this Course?](https://docs.google.com/document/d/1iiZ8ajxq2XNddehP-t259czPljccMTNxIMpQSnHmIZM/edit?usp=sharing)
 
 ## Content
