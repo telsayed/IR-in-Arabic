@@ -56,10 +56,10 @@
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_pSxQPKRyXWWh0lZ5rxjRPz1WYXrNcHm?usp=sharing)
 * [Lab Video](https://youtu.be/BmyOswZTvlM)
 
-## Contact us
-- [Dr. Tamer Elsayed](telsayed ~AT~ qu.edu.qa)
-- [Fatima Haouari](200159617 ~AT~ qu.edu.qa)
-- [Watheq Mansour](wm1900793 ~AT~ qu.edu.qa)
-- [Maram Hasanain](maram.hasanain ~AT~ qu.edu.qa)
+## Organizors
+- **Dr. Tamer Elsayed** (telsayed AT qu DOT edu DOT qa)
+- **Fatima Haouari** (200159617 AT qu DOT edu DOT qa)
+- **Watheq Mansour** (wm1900793 AT qu DOT edu DOT qa)
+- **Maram Hasanain** (maram.hasanain AT qu DOT edu DOT qa)
 
-**Team:** [bigIR](https://sites.google.com/view/bigir) from Qatar University ([@bigIR_group](https://twitter.com/bigIR_group))
+**Team:** [bigIR](https://sites.google.com/view/bigir) research group at Qatar University ([@bigIR_group](https://twitter.com/bigIR_group))
