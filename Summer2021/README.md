@@ -49,14 +49,14 @@
 * [Lab Video](https://www.youtube.com/watch?v=X81nk9lMcfo&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=16)
 ### Day9
 * [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day9/9-IRinArabic2021-BERT%20for%20Ranking.pdf)
-* [Lecture Video](https://www.youtube.com/watch?v=CrIN0HcSMyA&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=17)
+* [Lecture Video](https://youtu.be/SeJYxmuzNbI)
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_pSxQPKRyXWWh0lZ5rxjRPz1WYXrNcHm?usp=sharing)
-* [Lab Video](https://www.youtube.com/watch?v=CrIN0HcSMyA&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=18)
+* [Lab Video](https://youtu.be/6s5rsi_5R1M)
 ### Day10
 * [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day10/10-IRinArabic2021-IR%20Research%20%26%20Resources.pdf)
-* [Lecture Video](https://www.youtube.com/watch?v=CrIN0HcSMyA&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=19)
+* [Lecture Video](https://youtu.be/AKN6K4AFIZ4)
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_pSxQPKRyXWWh0lZ5rxjRPz1WYXrNcHm?usp=sharing)
-* [Lab Video](https://www.youtube.com/watch?v=CrIN0HcSMyA&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=20)
+* [Lab Video](https://youtu.be/BmyOswZTvlM)
 
 ## Contact us
 - [Dr. Tamer Elsayed](mailto:telsayed@qu.edu.qa)
