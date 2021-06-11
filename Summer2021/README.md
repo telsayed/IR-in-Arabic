@@ -1,6 +1,7 @@
 # Information Retrieval (in Arabic), Summer 2021
 
 **Team:** [bigIR](https://sites.google.com/view/bigir) from Qatar University ([@bigIR_group](https://twitter.com/bigIR_group))
+[What is this Course?](https://docs.google.com/document/d/1iiZ8ajxq2XNddehP-t259czPljccMTNxIMpQSnHmIZM/edit?usp=sharing)
 
 ## Content
 * [All Lectures & Labs on YouTube](https://www.youtube.com/playlist?list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca)
@@ -47,9 +48,14 @@
 * [Lab Video](https://www.youtube.com/watch?v=X81nk9lMcfo&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=16)
 ### Day9
 * [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day9/9-IRinArabic2021-BERT%20for%20Ranking.pdf)
-* [Lecture Video]()
+* [Lecture Video](https://www.youtube.com/watch?v=CrIN0HcSMyA&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=17)
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_pSxQPKRyXWWh0lZ5rxjRPz1WYXrNcHm?usp=sharing)
-* [Lab Video]()
+* [Lab Video](https://www.youtube.com/watch?v=CrIN0HcSMyA&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=18)
+### Day10
+* [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day10/10-IRinArabic2021-IR%20Research%20%26%20Resources.pdf)
+* [Lecture Video](https://www.youtube.com/watch?v=CrIN0HcSMyA&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=19)
+* Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_pSxQPKRyXWWh0lZ5rxjRPz1WYXrNcHm?usp=sharing)
+* [Lab Video](https://www.youtube.com/watch?v=CrIN0HcSMyA&list=PLRdABJkXXytBZEnoaSbhJhdLE2K8Nshca&index=20)
 
 ## Contact us
 - [Dr. Tamer Elsayed](mailto:telsayed@qu.edu.qa)
