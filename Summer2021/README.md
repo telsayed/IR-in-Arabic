@@ -10,7 +10,7 @@
 * [Lecture Video](https://youtu.be/LNK51UbY5BA)
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c0zI5_c5E7sT9fWk0wZGR5cTrSGZgxml?usp=sharing)
 * [Lab Video](https://youtu.be/Dh9XOBFEv7o)
-### Day 2: Indexing & Preprociessing
+### Day 2: Indexing & Preprocessing
 * [Lecture Slides](https://github.com/telsayed/IR-in-Arabic/blob/master/Summer2021/lectures/day2/2-IRinArabic2021-Indexing%20%26%20Preprocessing.pdf)
 * [Lecture Video](https://youtu.be/-r_0c1G2vcg)
 * Lab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GxgbyG5_klcpqgK1zSAa11wtsOlBNogw?usp=sharing)
